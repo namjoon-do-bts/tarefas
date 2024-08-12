@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "algoritimos visual studio/1.0.0": {
+        "runtime": {
+          "algoritimos visual studio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritimos visual studio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

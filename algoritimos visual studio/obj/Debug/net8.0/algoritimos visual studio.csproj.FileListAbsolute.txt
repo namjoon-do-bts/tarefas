@@ -1,0 +1,14 @@
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.AssemblyInfoInputs.cache
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.AssemblyInfo.cs
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.csproj.CoreCompileInputs.cache
+D:\Users\20241170150016\Desktop\algoritimos visual studio\bin\Debug\net8.0\algoritimos visual studio.exe
+D:\Users\20241170150016\Desktop\algoritimos visual studio\bin\Debug\net8.0\algoritimos visual studio.deps.json
+D:\Users\20241170150016\Desktop\algoritimos visual studio\bin\Debug\net8.0\algoritimos visual studio.runtimeconfig.json
+D:\Users\20241170150016\Desktop\algoritimos visual studio\bin\Debug\net8.0\algoritimos visual studio.dll
+D:\Users\20241170150016\Desktop\algoritimos visual studio\bin\Debug\net8.0\algoritimos visual studio.pdb
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.dll
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\refint\algoritimos visual studio.dll
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.pdb
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\algoritimos visual studio.genruntimeconfig.cache
+D:\Users\20241170150016\Desktop\algoritimos visual studio\obj\Debug\net8.0\ref\algoritimos visual studio.dll
